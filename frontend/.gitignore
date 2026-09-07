@@ -10,3 +10,4 @@ dist/
 
 # DB
 *.sqlite3
+node_modules/
